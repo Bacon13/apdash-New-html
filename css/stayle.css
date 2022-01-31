@@ -750,6 +750,7 @@ font-size: 15px;
     line-height: 32px;
     border-radius: 4px;
     font-size: 1rem;
+    justify-content: center;
 }
 .contenr-text-5 .contentr-text-img-1 .width-padding .box-img-text .text-7 ul li:hover a{
     border-radius: 100%;
