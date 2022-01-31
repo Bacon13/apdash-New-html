@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 *{
     box-sizing: border-box;
 }
@@ -240,14 +243,13 @@ header  .content-loge-nav #nav{
     left: -75px;
     width: 50.2%;
     box-shadow: 0 22px 45px rgb(0 0 0 / 20%);
+      animation: animation 5s ease-in-out 4s infinite;
 }
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-1,
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-2,
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-3,
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-4
 {
-   
-    animation: animation 5s ease-in-out 4s infinite;
     position: absolute;
     display: flex;
     border-radius: 15px;
@@ -276,6 +278,7 @@ header  .content-loge-nav #nav{
     box-shadow: 0 22px 45px rgb(0 0 0 / 9%);
     background-color: #fff;
     justify-content: space-between;
+    animation: animation 4s ease-in-out 1s infinite;
 }
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-2 p,
 .contenr-content-rew.content-flex-row .img-anmtion .animation-item #animation-4 p
@@ -293,6 +296,7 @@ font-size: 15px;
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-3{
     right: -5%;
     top: 15%;
+     animation: animation 4s ease-in-out 3s infinite;
 }
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-4{
     width: 66%;
@@ -301,6 +305,7 @@ font-size: 15px;
     padding: 24px;
     right: -27px;
     justify-content: space-between;
+    animation: animation 3s ease-in-out 2s infinite;
 }
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-4 p{
     color: white;
