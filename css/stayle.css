@@ -59,7 +59,7 @@ header{
     top: 0;
     z-index: 10;
     background-color: white;
-    box-shadow: 0 0.1rem 0.08rem rgb(0 0 0 / 8%);
+/*     box-shadow: 0 0.1rem 0.08rem rgb(0 0 0 / 8%); */
 }
 header .content-loge-nav,
 .contenr-content-rew .content-flex-row,
