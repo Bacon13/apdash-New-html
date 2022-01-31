@@ -241,7 +241,7 @@ header  .content-loge-nav #nav{
 .contenr-content-rew .content-flex-row .img-anmtion .animation-item #animation-1{
     top: 10%;
     left: -75px;
-    width: 50.2%;
+    width: 41%;
     box-shadow: 0 22px 45px rgb(0 0 0 / 20%);
       animation: animation 5s ease-in-out 4s infinite;
 }
